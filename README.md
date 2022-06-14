@@ -1,6 +1,4 @@
-# Learning
-
-Log of resources in content strategy, design, & related fields
+# Books, trainings, and podcasts
 
 🌟 = priority for FY22
 
