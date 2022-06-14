@@ -1,4 +1,4 @@
-# Books, trainings, and podcasts
+# Content and UX learning resources
 
 🌟 = priority for FY22
 
