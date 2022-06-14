@@ -15,6 +15,7 @@
 - [x] [_Content Design_ by Sarah Winters](https://contentdesign.london/store/the-content-design-book/)
 - [x] [_SEO for Everyone_ by Rebekah Baggs & Chris Corak](https://abookapart.com/products/seo-for-everyone)
 - [x] [_Information Architecture_ by Louis Rosenfeld, Peter Morville, and Jorge Arango](https://www.oreilly.com/library/view/information-architecture-4th/9781491913529/)
+- [ ] [_The Elements of Content Strategy_ by Erin Kissane](https://abookapart.com/products/the-elements-of-content-strategy)
 
 #### Useful for specific situations
 
@@ -22,7 +23,7 @@
 - [x] [_Cultivating Content Design_ by Beth Dunn](https://abookapart.com/products/cultivating-content-design)
 - [x] [_Designing Connected Content_ by Carrie Hane](https://www.oreilly.com/library/view/designing-connected-content/9780134764061/)
 - [x] [_UX Strategy_ by Jaime Levy](https://www.oreilly.com/library/view/ux-strategy-2nd/9781492052425/)
-- [x] [_The Elements of Content Strategy_ by Erin Kissane](https://abookapart.com/products/the-elements-of-content-strategy)
+
 - [x] [_Strategic Writing for UX_ by Torrey Podmajersky](https://www.oreilly.com/library/view/strategic-writing-for/9781492049388/)
 - [x] [_Managing Chaos: Digital Governance by Design_ by Lisa Welchman](https://rosenfeldmedia.com/books/managing-chaos/)
 - [x] [_Why You Need a Content Team and How to Build One_ by Rachel McConnell](https://www.amazon.com/Why-need-content-team-build/dp/1720128448)
