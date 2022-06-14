@@ -77,6 +77,8 @@
 
 ### Trainings
 
+- [ ] [Hmnty Cntrd Self-Paced Humanity-Centered Masterclass](https://hmntycntrd.com/self-paced-hc-masterclass) USD 499
+- [ ] [The Art of Accomplishment Connection Course](https://info.artofaccomplishment.com/connection/) USD 300
 - [ ] Online communication trainings from Oren Jay Sofer (to be announced)
 - [x] 40-hour introductory mediation training (providers vary)
 
