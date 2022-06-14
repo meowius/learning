@@ -1,6 +1,6 @@
 # Content and UX learning resources
 
-🌟 = priority for FY22
+🌟 = favorite
 
 ## Content design and strategy
 
@@ -78,6 +78,7 @@
 ### Trainings
 
 - [ ] Online communication trainings from Oren Jay Sofer (to be announced)
+- [x] 40-hour introductory mediation training (providers vary)
 
 ## Change management
 
@@ -90,5 +91,7 @@
 - [x] [_Change Management Review_ podcast](https://podcasts.apple.com/us/podcast/change-management-review-podcast/id1147293346) 🆓
 
 ### Training
+
+Many providers, often expensive. A good entry option:
 
 - [ ] [Ashton College 1-Course Change Management Training](https://www.ashtoncollege.ca/programs/change-management/) CAD 995
