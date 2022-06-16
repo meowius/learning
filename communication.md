@@ -6,8 +6,10 @@
 
 ## Nonviolent communication (NVC)
 
+- [ ] [Center for Nonviolent Communication](https://www.cnvc.org/) — more intensive training, including in-person facilitator training
 - [x] [Oren Jay Sofer online courses on mindfulness and NVC](https://www.orenjaysofer.com/schedule)
 - [ ] [Oren Jay Sofer communication retreat at Spirit Rock](https://www.orenjaysofer.com/schedule/spirit-rock-aug22) — non-residential retreat at Spirit Rock Meditation Center in Woodacre, CA (Marin County), August 5–7, 2022, USD 350–1,008 sliding scale
+- [ ] [NVC Academy training](https://nvctraining.com/) — online courses and downloads
 
 ## Change management
 
