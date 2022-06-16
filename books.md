@@ -32,6 +32,10 @@
 ## IA, metadata & taxonomy
 
 - [x] [_Information Architecture_ by Louis Rosenfeld, Peter Morville, and Jorge Arango](https://www.oreilly.com/library/view/information-architecture-4th/9781491913529/)
+- [x] [_The Accidental Taxonomist_ by Heather Hedden](http://www.hedden-information.com/accidental-taxonomist/), 2nd edition. Note: 3rd edition being released in fall 2022 with preorders in August
+- [x] [“Guidelines for the Construction, Format, and Management of Monolingual Controlled Vocabularies,” ANSI/NISO Z39.19-2005 (R2010)](https://www.niso.org/publications/ansiniso-z3919-2005-r2010) 🆓
+- [ ] [“Thesauri and interoperability with other vocabularies — Part 1: Thesauri for information retrieval,” ISO 25964-1:2011](https://www.iso.org/standard/53657.html) CHF 198
+- [ ] [“Thesauri and interoperability with other vocabularies — Interoperability with other vocabularies,” ISO 25964-1:2011](https://www.iso.org/standard/53657.html) CHF 198
 
 ## Governance
 
