@@ -1,4 +1,4 @@
-# Content and UX trainings and self-guided resources
+# Content and UX trainings and podcasts
 
 🌟 = I've signed up for FY23
 - [x] = I've done this
