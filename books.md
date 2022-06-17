@@ -10,9 +10,10 @@
 
 ## Content strategy
 
-- [x] [_Designing Connected Content_ by Carrie Hane](https://www.oreilly.com/library/view/designing-connected-content/9780134764061/)
+- [x] [_Content Everywhere: Strategy and Structure for Future-Ready Content_ by Sara Wachter-Boettcher](https://rosenfeldmedia.com/books/content-everywhere/) — foundational text on structured content
+- [x] [_Designing Connected Content_ by Carrie Hane](https://www.oreilly.com/library/view/designing-connected-content/9780134764061/) — how to define a structured-content framework by defining a domain model
 - [ ] [_The Elements of Content Strategy_ by Erin Kissane](https://abookapart.com/products/the-elements-of-content-strategy)
-- [x] [_SEO for Everyone_ by Rebekah Baggs & Chris Corak](https://abookapart.com/products/seo-for-everyone)
+- [x] [_SEO for Everyone_ by Rebekah Baggs & Chris Corak](https://abookapart.com/products/seo-for-everyone) — great introduction to human-centered content SEO through a UX lens, with specifics on how to use Google Search Console, Ahrefs, and Screaming Frog
 
 ## ContentOps & management
 
