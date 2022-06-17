@@ -13,7 +13,11 @@
 
 - [ ] [Confab Conference 2023](https://www.confabevents.com/), April 30–May 3, 2023 — content strategy conference founded by Kristina Halvorson, author of _Content Strategy for the Web_, focusing on strategy and operations. Applications not open as of mid-June 2022, probably ca. USD 895 for online attendance
 - [ ] [Confab Conference, 2022 replays](https://www.confabevents.com/2022-recap) — recordings of the 2022 conference (though not the workshops sadface). USD 595
-- [x] [The Content Strategy Podcast](https://www.contentstrategy.com/episodes) with Kristina Halvorson 🆓
+- [x] [Content Strategy in a Zombie Apocalypse, USI Events Conference Replay 2016](https://www.youtube.com/watch?v=1QZ7BowhwG4) — Karen McGrane's timeless rant against "content blobs"
+- [x] [Content Strategy Podcast](https://www.contentstrategy.com/episodes) from Kristina Halvorson 🆓
+- [ ] [Stakeholder Alignment, An Event Apart Conference Replay 2018](https://aneventapart.com/news/post/mission-possible-stakeholder-alignment-aea-video) from Kristina Halvorson 🆓
+- [ ] ["Use Your Words," An Event Apart Conference Replay 2018](https://aneventapart.com/news/post/use-your-words-by-kristina-halvorson-an-event-apart-video) — "Kristina Halvorson shares language principles and content design tools anyone can put to work—yes, even the 'non-writers' among us" 🆓
+- [ ] [UX Content Strategy, The Futur, 2016](https://www.youtube.com/watch?v=tlskof89nUw) — Karen McGrane on "how to create and manage content for high-end websites" 🆓
 
 ## UX research & design
 
@@ -24,6 +28,7 @@
 - [ ] [NN/g Journey Mapping to Understand Customer Needs daylong](https://www.nngroup.com/courses/journey-mapping/) — next up June 23, July 19, or August 15/16, 2022
 - [x] [NN/g UX podcast](https://podcasts.apple.com/us/podcast/nn-g-ux-podcast/id1527196035) 🆓
 - [ ] [User Research and Testing for UX Writing on Udemy](https://www.udemy.com/course/user-research-and-testing-for-ux-writing/) — unusual focus on testing for content specifically, USD $16.99 🌟
+- [ ] [Smashing Magazine Online Workshops](https://smashingconf.com/online-workshops/workshops) — mostly front-end coding and visual design, but also topics on UX more broadly as well as user testing and accessibility, USD 350–450
 - [ ] [UX courses on FutureLearn](https://www.futurelearn.com/experttracks/ux-user-design-research) — As many courses as you like on UX (and other topics!) for a whole year for $279.99
 
 ## IA, metadata & taxonomy
