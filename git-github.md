@@ -1,3 +1,7 @@
+## Learning Git and GitHub
+
+Resources for non-technical folks.
+
 - [Official list of Git and GitHub learning resources, via Docs](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
 - [PluralSight "Code School: Git Real" online course](https://www.pluralsight.com/courses/code-school-git-real?exp=3)
 - [Harvard CS50 via edX](https://cs50.harvard.edu/x/2022/) — Introduction to computer science, the big picture. Videos plus hands-on assignments and various community supports (e.g., Discord). 🆓 to audit, USD 149 for certificate
